@@ -32,8 +32,8 @@
   },
 
   "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/covid_tracker" 
-  },
+    "registry": "https://npm.pkg.github.com/" 
+  }
 
   "browserslist": {
     "production": [
